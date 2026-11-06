@@ -356,6 +356,8 @@ bash -n server-stats.sh
 
 Check that all headings appear and the values are plausible. CPU sampling takes approximately one second. Statistics change over time, so the values do not need to match earlier screenshots. Sudo is not required. The optional failed-login-attempts feature is not included in this version; relevant logs and permissions vary by distribution.
 
+https://roadmap.sh/projects/server-stats
+
 ## References
 
 - [GNU coreutils manual](https://www.gnu.org/software/coreutils/manual/coreutils.html)
